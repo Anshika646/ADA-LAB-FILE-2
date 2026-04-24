@@ -1,4 +1,4 @@
-# ADA-LAB-FILE-3
+# ADA 3
 def create_matrix(n):
     graph = [[0]*n for i in range(n)]
     edges = [(0,1),(0,2),(1,2),(2,3)]
